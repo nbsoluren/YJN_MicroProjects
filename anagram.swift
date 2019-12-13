@@ -10,3 +10,7 @@ func anagram(is one: String, to two: String) -> Bool{
   let twoDict = makeDict(for:two)
   return oneDict == twoDict
 }
+
+print(anagram(is:"Natalie", to: "Sad"))
+print(anagram(is:"Death", to: "Dead"))
+print(anagram(is:"CAT", to: "TAC"))
