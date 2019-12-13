@@ -8,3 +8,7 @@ func vowelCount(_ string: String) -> Int{
   }
   return sum
 }
+
+print(vowelCount("My dog's name is tantan and he's a good boy!"))
+print(vowelCount("hmm okay? lol. Thanks for sharing."))
+print(vowelCount("aaa bb"))
