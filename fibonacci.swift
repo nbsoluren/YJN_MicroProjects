@@ -5,3 +5,6 @@ func fibonacci(_ number: Int) -> Int{
     return fibonacci(number-2) + fibonacci(number-1)
   }
 }
+
+print(fibonacci(1))//should return 1
+print(fibonacci(6))//should print 0
