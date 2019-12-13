@@ -8,3 +8,8 @@ func palindromeChecker(_ string: String) -> Bool{
   }
   return true
 }
+
+//natalie way
+func palindromeChecker2(_ string: String) ->Bool{
+  return string == String(Array(string).reversed())
+}
