@@ -10,6 +10,6 @@ https://docs.google.com/document/d/1T2PH2L_mnklvIUjGUKUYQBlvc_JSUNXR3gVP-h3b8s0/
 - [x] Anagram
 - [x] Fibonacci
 - [x] Vowels
-- [ ] Merge Sort
-- [ ] Insertion Sort
+- [x] Insertion Sort
+- [x] Merge Sort
 - [ ] Classification using k-Nearest Neighbors
